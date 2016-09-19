@@ -1,6 +1,6 @@
-# Pre-work - *Name of App Here*
+# Pre-work - *TIPPER*
 
-**Tipper** is a tip calculator application for iOS.
+**TIPPER** is a tip calculator application for iOS.
 
 Submitted by: **Bryan Parker**
 
